@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ControladorManual.MainPage">
+
+    <StackLayout>
+        <Frame Margin="16" CornerRadius="0" BorderColor="LightGray">
+            <StackLayout>
+                <Label Text="Conteo:" FontSize="Large" Margin="8"></Label>
+                <Label Text="{Binding Conteo}" FontSize="42" HorizontalOptions="Center"
+                       Margin="16" x:Name="ConteoLabel"/>
+            </StackLayout>
+        </Frame>
+
+        <StackLayout  Orientation="Horizontal" Margin="16"
+                    HorizontalOptions="Center">
+            <Button x:Name="ContarButton" Text="Contar" FontSize="Medium" Clicked="ContarButton_Clicked"></Button>
+            <Button x:Name="ReiniciarButton" Text="Reiniciar" FontSize="Medium" Clicked="ReiniciarButton_Clicked"></Button>
+        </StackLayout>
+        
+    </StackLayout>
+
+</ContentPage>

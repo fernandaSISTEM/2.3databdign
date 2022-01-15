@@ -1,0 +1,23 @@
+[33mcommit 76ee96f0e331f193f2fbd747a382e8a02db2a465[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Marlyn Guadalupe Martinez Morales <17470313@campeche.tecnm.mx>
+Date:   Thu Oct 28 13:26:52 2021 -0500
+
+    Implementa la sincronizacion usando Data Binding
+
+[33mcommit 71a2141b625864d42050188243cfe5878b19993a[m
+Author: Marlyn Guadalupe Martinez Morales <17470313@campeche.tecnm.mx>
+Date:   Thu Oct 28 13:06:15 2021 -0500
+
+    Agregar la clase Contador y realizar el conteo utilizando una instancia de esta clase
+
+[33mcommit 471b792162d17d90b2564629ee86f2b10320807a[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Marlyn Guadalupe Martinez Morales <17470313@campeche.tecnm.mx>
+Date:   Wed Oct 20 17:01:50 2021 -0500
+
+    Agregar el manejo de eventos que da comportamiento a la interfaz de usuarios d ela aplicación
+
+[33mcommit b45778f8d99fafeeeab412e2b196227e808e56e8[m
+Author: Marlyn Guadalupe Martinez Morales <17470313@campeche.tecnm.mx>
+Date:   Wed Oct 20 13:26:00 2021 -0500
+
+    Versión inicial del proyecto
